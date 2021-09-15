@@ -4,3 +4,6 @@ node_modules
 .yarnrc
 .yarnrc.yml
 yarn-error.log
+build
+.history
+.vscode
